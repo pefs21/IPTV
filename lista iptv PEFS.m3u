@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0 group-title="Canais PEFS"
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Canal Aberto",REDE TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
+
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" tvg-logo="https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg" group-title="Canal Aberto",CANÇÃO NOVA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653815931/ei/G-aSYp_mB4uD-LAP97Ov4Ao/ip/201.4.103.241/id/9mI_RPHY-Q4.1/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC4WJ_CdjXoNRAO6Lorv_cBBY-BoPLboUjsf7Tg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIRRFY59UkdJUVQhgM5mS_O-5bvPBMXr7jfaVY9kDVwgAiEAmHnc7EV19FxggIHf_jxS5XHXxRWgla0TdrxjjBdCtV0%3D/file/index.m3u8
+
+
+
+
+
+
+
